@@ -24,10 +24,8 @@ repos, listed so the shape of the work is visible even when the code isn't.
 
 | | |
 |---|---|
-| **[OpenClaw](https://github.com/celaya-solutions/OpenHub-Agent)** | Your assistant, on your devices, in your chats. A multi-channel agent gateway with a plugin system, Telegram/Discord/CLI surfaces, and local-model support. |
 | **[PASO](https://github.com/celaya-solutions/PASO-AGENT)** | An AI agent by Celaya Solutions Research. Containerized and Railway-deployed, built on the OpenClaw core. |
 | **[Crucible](https://github.com/celaya-solutions/Crucible)** | An inference engine, written in Go. |
-| **[Industrial MCP Server](https://github.com/celaya-solutions/Industrial-MCP-Server)** | An MCP server for connecting to PLCs in industry and manufacturing. |
 | **[Android Claude Code MCP](https://github.com/celaya-solutions/android-claude-code-mcp-server)** | Drives Android over adb + SSH + Shizuku — runs real Claude Code on the phone inside a Debian proot, no root required. |
 | **[MORTEM](https://github.com/celaya-solutions/mortem-public)** | The agent built to die. |
 | **[OpenHub WebUI](https://github.com/celaya-solutions/OpenHub-WebUI)** | A friendlier interface for local and hosted models. |
