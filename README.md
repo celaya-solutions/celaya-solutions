@@ -20,7 +20,7 @@ repos, listed so the shape of the work is visible even when the code isn't.
 
 ---
 
-## 🦞 Agents & infrastructure
+## 🤖 Agents & infrastructure
 
 | | |
 |---|---|
