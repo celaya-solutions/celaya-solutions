@@ -1,6 +1,6 @@
 <div align="center">
 
-# Christopher Celaya
+# Celaya Solutions Research
 
 ### Making coherence visible.
 
